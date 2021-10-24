@@ -1,0 +1,2 @@
+# SyamsulAplKotlin
+Aplikasi kotlin Sederhana
